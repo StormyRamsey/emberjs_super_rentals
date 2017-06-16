@@ -1,7 +1,6 @@
 # super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+SuperRentals is an EmberJS tutorial application that I used to learn Ember.   
 
 ## Prerequisites
 
